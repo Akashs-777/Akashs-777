@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akashs-777
+- 👋 Hi, I’m @Akashspreet singh
 - 👀 I’m interested in becoming a considerable student for any role in Industry;
 - 🌱 I’m currently learning Ai trends with development skills to stand out in field;
 - 📫 How to reach me email: akashpreet170@gmail.com;
