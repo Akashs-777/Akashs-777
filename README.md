@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ai trends with development skills to stand out in field;
 - 📫 To reach me email: akashpreet170@gmail.com;
 - 😄 Pronouns: Akash
-- ⚡ Fun fact: Error are nothing than experince in life ${no. of errors increases} Knoweledge in skills increases
+- ⚡ Fun fact: `Error are nothing than experince in life ${no. of errors increases} Knoweledge in skills increases`;
 
 <!---
 Akashs-777/Akashs-777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
